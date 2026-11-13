@@ -1,0 +1,6 @@
+{
+  "name": "BioExplore - Interactive 3D Anatomy & Biotech Explorer",
+  "description": "Next-generation biology and human anatomy explorer featuring clinical 3D volumetric models, molecular simulations, organ telemetry, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
